@@ -5,3 +5,6 @@ This is website created with ruby on rails in order to learn and gain experience
 To run web server:
 1) cd to /blog/
 2) run: $ ruby bun\rails server
+
+
+This is now the completed version of the rails guide app
